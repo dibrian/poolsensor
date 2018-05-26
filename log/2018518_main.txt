@@ -1,0 +1,198 @@
+[2018.05.18 18:07:22] Rendszerinditas
+[2018.05.18 18:07:22] . Szenzorok inicializalasa...
+[2018.05.18 18:07:22] .. Medence (1), homersekleti erteke: 99.999
+[2018.05.18 18:07:22] .. Panel (1), homersekleti erteke: 99.999
+[2018.05.18 18:07:22] .. Panelek atlaghomerseklete: 99.999
+[2018.05.18 18:07:22] ..
+[2018.05.18 18:07:22] . Relek inicializalasa...
+[2018.05.18 18:07:22] .. Szivattyu, allapota: kikapcsolva
+[2018.05.18 18:07:22] . Inditasi ido: 8 ora
+[2018.05.18 18:07:22] . Kikapcsolasi ido: 18 ora
+[2018.05.18 18:07:22] ---------------------------
+[2018.05.18 18:07:22] Szenzorok olvasasa...
+[2018.05.18 18:07:22] . Medence (1), homersekleti erteke: 99.999
+[2018.05.18 18:07:22] . Panel (1), homersekleti erteke: 99.999
+[2018.05.18 18:07:22] .. Panelek atlaghomerseklete: 99.999
+[2018.05.18 18:07:22] A panelek homerseklete a kisebb (99.999 C), ezert kikapcsolom
+[2018.05.18 18:07:22] Nem sikerult kapcsolni
+[2018.05.18 18:07:22] ---------------------------
+[2018.05.18 18:31:41] Rendszerinditas
+[2018.05.18 18:31:41] . Szenzorok inicializalasa...
+[2018.05.18 18:31:44] .. Medence (1), homersekleti erteke: 16.187
+[2018.05.18 18:31:44] .. Panel (1), homersekleti erteke: 99.999
+[2018.05.18 18:31:44] .. Panelek atlaghomerseklete: 99.999
+[2018.05.18 18:31:44] ..
+[2018.05.18 18:31:44] . Relek inicializalasa...
+[2018.05.18 18:31:44] .. Szivattyu, allapota: kikapcsolva
+[2018.05.18 18:31:44] . Inditasi ido: 8 ora
+[2018.05.18 18:31:44] . Kikapcsolasi ido: 18 ora
+[2018.05.18 18:31:44] ---------------------------
+[2018.05.18 18:31:44] Szenzorok olvasasa...
+[2018.05.18 18:31:46] . Medence (1), homersekleti erteke: 16.187
+[2018.05.18 18:31:46] . Panel (1), homersekleti erteke: 99.999
+[2018.05.18 18:31:46] .. Panelek atlaghomerseklete: 99.999
+[2018.05.18 18:31:46] A Medence (1) szenzor erteke a kisebb, ezert bekapcsolom
+[2018.05.18 18:31:46] Sikeres kapcsolasi kerelem
+[2018.05.18 18:31:46] Alvasi periodus beallitva 10 masodpercre
+[2018.05.18 18:31:46] ---------------------------
+[2018.05.18 18:31:46] Most varunk 10 masodpercet...
+[2018.05.18 18:31:56] Szenzorok olvasasa...
+[2018.05.18 18:31:59] . Medence (1), homersekleti erteke: 16.187
+[2018.05.18 18:31:59] . Panel (1), homersekleti erteke: 99.999
+[2018.05.18 18:31:59] .. Panelek atlaghomerseklete: 99.999
+[2018.05.18 18:31:59] A Medence (1) szenzor erteke a kisebb, ezert bekapcsolom
+[2018.05.18 18:31:59] Sikeres kapcsolasi kerelem
+[2018.05.18 18:31:59] Alvasi periodus beallitva 10 masodpercre
+[2018.05.18 18:31:59] ---------------------------
+[2018.05.18 18:31:59] Most varunk 10 masodpercet...
+[2018.05.18 18:32:09] Szenzorok olvasasa...
+[2018.05.18 18:32:10] . Medence (1), homersekleti erteke: 16.187
+[2018.05.18 18:32:10] . Panel (1), homersekleti erteke: 99.999
+[2018.05.18 18:32:10] .. Panelek atlaghomerseklete: 99.999
+[2018.05.18 18:32:10] A Medence (1) szenzor erteke a kisebb, ezert bekapcsolom
+[2018.05.18 18:32:10] Sikeres kapcsolasi kerelem
+[2018.05.18 18:32:10] Alvasi periodus beallitva 10 masodpercre
+[2018.05.18 18:32:10] ---------------------------
+[2018.05.18 18:32:10] Most varunk 10 masodpercet...
+[2018.05.18 18:32:20] Szenzorok olvasasa...
+[2018.05.18 18:32:22] . Medence (1), homersekleti erteke: 16.187
+[2018.05.18 18:32:22] . Panel (1), homersekleti erteke: 99.999
+[2018.05.18 18:32:22] .. Panelek atlaghomerseklete: 99.999
+[2018.05.18 18:32:22] A Medence (1) szenzor erteke a kisebb, ezert bekapcsolom
+[2018.05.18 18:32:22] Sikeres kapcsolasi kerelem
+[2018.05.18 18:32:22] Alvasi periodus beallitva 10 masodpercre
+[2018.05.18 18:32:22] ---------------------------
+[2018.05.18 18:32:22] Most varunk 10 masodpercet...
+[2018.05.18 18:32:32] Szenzorok olvasasa...
+[2018.05.18 18:32:32] . Medence (1), homersekleti erteke: 16.187
+[2018.05.18 18:32:32] . Panel (1), homersekleti erteke: 99.999
+[2018.05.18 18:32:32] .. Panelek atlaghomerseklete: 99.999
+[2018.05.18 18:32:32] A Medence (1) szenzor erteke a kisebb, ezert bekapcsolom
+[2018.05.18 18:32:32] Sikeres kapcsolasi kerelem
+[2018.05.18 18:32:32] Alvasi periodus beallitva 10 masodpercre
+[2018.05.18 18:32:32] ---------------------------
+[2018.05.18 18:32:32] Most varunk 10 masodpercet...
+[2018.05.18 18:32:42] Szenzorok olvasasa...
+[2018.05.18 18:32:46] . Medence (1), homersekleti erteke: 16.187
+[2018.05.18 18:32:46] . Panel (1), homersekleti erteke: 99.999
+[2018.05.18 18:32:46] .. Panelek atlaghomerseklete: 99.999
+[2018.05.18 18:32:46] A Medence (1) szenzor erteke a kisebb, ezert bekapcsolom
+[2018.05.18 18:32:46] Sikeres kapcsolasi kerelem
+[2018.05.18 18:32:46] Alvasi periodus beallitva 10 masodpercre
+[2018.05.18 18:32:46] ---------------------------
+[2018.05.18 18:32:46] Most varunk 10 masodpercet...
+[2018.05.18 18:32:56] Szenzorok olvasasa...
+[2018.05.18 18:33:05] . Medence (1), homersekleti erteke: 99.999
+[2018.05.18 18:33:05] . Panel (1), homersekleti erteke: 99.999
+[2018.05.18 18:33:05] .. Panelek atlaghomerseklete: 99.999
+[2018.05.18 18:33:05] A panelek homerseklete a kisebb (99.999 C), ezert kikapcsolom
+[2018.05.18 18:33:05] Sikeres kapcsolasi kerelem
+[2018.05.18 18:33:05] Alvasi periodus beallitva 30 masodpercre
+[2018.05.18 18:33:05] ---------------------------
+[2018.05.18 18:33:05] Most varunk 30 masodpercet...
+[2018.05.18 19:42:36] Rendszerinditas
+[2018.05.18 19:42:36] . Szenzorok inicializalasa...
+[2018.05.18 19:42:39] .. Medence (1), homersekleti erteke: 16.312
+[2018.05.18 19:42:39] .. Panel (1), homersekleti erteke: 21.812
+[2018.05.18 19:42:39] .. Panelek atlaghomerseklete: 21.812
+[2018.05.18 19:42:39] ..
+[2018.05.18 19:42:39] . Relek inicializalasa...
+[2018.05.18 19:42:39] .. Szivattyu, allapota: kikapcsolva
+[2018.05.18 19:42:39] . Inditasi ido: 8 ora
+[2018.05.18 19:42:39] . Kikapcsolasi ido: 18 ora
+[2018.05.18 19:42:39] ---------------------------
+[2018.05.18 19:42:39] Szenzorok olvasasa...
+[2018.05.18 19:42:39] . Medence (1), homersekleti erteke: 16.312
+[2018.05.18 19:42:40] . Panel (1), homersekleti erteke: 21.812
+[2018.05.18 19:42:40] .. Panelek atlaghomerseklete: 21.812
+[2018.05.18 19:42:40] Keso van mar, nem zajongunk...
+[2018.05.18 19:42:40] ---------------------------
+[2018.05.18 19:42:40] Most varunk 60 masodpercet...
+[2018.05.18 19:52:34] Rendszerinditas
+[2018.05.18 19:52:34] . Szenzorok inicializalasa...
+[2018.05.18 19:52:36] .. Medence (1), homersekleti erteke: 16.312
+[2018.05.18 19:52:36] .. Panel (1), homersekleti erteke: 22.125
+[2018.05.18 19:52:36] .. Panelek atlaghomerseklete: 22.125
+[2018.05.18 19:52:36] ..
+[2018.05.18 19:52:36] . Relek inicializalasa...
+[2018.05.18 19:52:36] .. Szivattyu, allapota: kikapcsolva
+[2018.05.18 19:52:36] . Inditasi ido: 8 ora
+[2018.05.18 19:52:36] . Kikapcsolasi ido: 18 ora
+[2018.05.18 19:52:36] ---------------------------
+[2018.05.18 19:52:36] Szenzorok olvasasa...
+[2018.05.18 19:52:37] . Medence (1), homersekleti erteke: 16.312
+[2018.05.18 19:52:37] . Panel (1), homersekleti erteke: 22.125
+[2018.05.18 19:52:37] .. Panelek atlaghomerseklete: 22.125
+[2018.05.18 19:52:37] Keso van mar, nem zajongunk...
+[2018.05.18 19:52:37] ---------------------------
+[2018.05.18 19:52:37] Most varunk 60 masodpercet...
+[2018.05.18 19:53:38] Szenzorok olvasasa...
+[2018.05.18 19:53:38] . Medence (1), homersekleti erteke: 16.312
+[2018.05.18 19:53:39] . Panel (1), homersekleti erteke: 22.062
+[2018.05.18 19:53:39] .. Panelek atlaghomerseklete: 22.062
+[2018.05.18 19:53:39] Keso van mar, nem zajongunk...
+[2018.05.18 19:53:39] ---------------------------
+[2018.05.18 19:53:39] Most varunk 60 masodpercet...
+[2018.05.18 19:54:39] Szenzorok olvasasa...
+[2018.05.18 19:54:40] . Medence (1), homersekleti erteke: 16.312
+[2018.05.18 19:54:41] . Panel (1), homersekleti erteke: 22.062
+[2018.05.18 19:54:41] .. Panelek atlaghomerseklete: 22.062
+[2018.05.18 19:54:41] Keso van mar, nem zajongunk...
+[2018.05.18 19:54:41] ---------------------------
+[2018.05.18 19:54:41] Most varunk 60 masodpercet...
+[2018.05.18 19:55:41] Szenzorok olvasasa...
+[2018.05.18 19:55:42] . Medence (1), homersekleti erteke: 16.312
+[2018.05.18 19:55:43] . Panel (1), homersekleti erteke: 22.125
+[2018.05.18 19:55:43] .. Panelek atlaghomerseklete: 22.125
+[2018.05.18 19:55:43] Keso van mar, nem zajongunk...
+[2018.05.18 19:55:43] ---------------------------
+[2018.05.18 19:55:43] Most varunk 60 masodpercet...
+[2018.05.18 19:56:43] Szenzorok olvasasa...
+[2018.05.18 19:56:44] . Medence (1), homersekleti erteke: 16.312
+[2018.05.18 19:56:45] . Panel (1), homersekleti erteke: 22.125
+[2018.05.18 19:56:45] .. Panelek atlaghomerseklete: 22.125
+[2018.05.18 19:56:45] Keso van mar, nem zajongunk...
+[2018.05.18 19:56:45] ---------------------------
+[2018.05.18 19:56:45] Most varunk 60 masodpercet...
+[2018.05.18 19:57:45] Szenzorok olvasasa...
+[2018.05.18 19:57:46] . Medence (1), homersekleti erteke: 16.312
+[2018.05.18 19:57:47] . Panel (1), homersekleti erteke: 22.062
+[2018.05.18 19:57:47] .. Panelek atlaghomerseklete: 22.062
+[2018.05.18 19:57:47] Keso van mar, nem zajongunk...
+[2018.05.18 19:57:47] ---------------------------
+[2018.05.18 19:57:47] Most varunk 60 masodpercet...
+[2018.05.18 19:58:47] Szenzorok olvasasa...
+[2018.05.18 19:58:48] . Medence (1), homersekleti erteke: 16.312
+[2018.05.18 19:58:49] . Panel (1), homersekleti erteke: 22.062
+[2018.05.18 19:58:49] .. Panelek atlaghomerseklete: 22.062
+[2018.05.18 19:58:49] Keso van mar, nem zajongunk...
+[2018.05.18 19:58:49] ---------------------------
+[2018.05.18 19:58:49] Most varunk 60 masodpercet...
+[2018.05.18 19:59:49] Szenzorok olvasasa...
+[2018.05.18 19:59:49] . Medence (1), homersekleti erteke: 16.312
+[2018.05.18 19:59:50] . Panel (1), homersekleti erteke: 22.062
+[2018.05.18 19:59:50] .. Panelek atlaghomerseklete: 22.062
+[2018.05.18 19:59:50] Keso van mar, nem zajongunk...
+[2018.05.18 19:59:50] ---------------------------
+[2018.05.18 19:59:50] Most varunk 60 masodpercet...
+[2018.05.18 20:00:50] Szenzorok olvasasa...
+[2018.05.18 20:00:51] . Medence (1), homersekleti erteke: 16.312
+[2018.05.18 20:00:52] . Panel (1), homersekleti erteke: 22.062
+[2018.05.18 20:00:52] .. Panelek atlaghomerseklete: 22.062
+[2018.05.18 20:00:52] Keso van mar, nem zajongunk...
+[2018.05.18 20:00:52] ---------------------------
+[2018.05.18 20:00:52] Most varunk 60 masodpercet...
+[2018.05.18 20:01:52] Szenzorok olvasasa...
+[2018.05.18 20:01:53] . Medence (1), homersekleti erteke: 16.312
+[2018.05.18 20:01:54] . Panel (1), homersekleti erteke: 22.000
+[2018.05.18 20:01:54] .. Panelek atlaghomerseklete: 22.0
+[2018.05.18 20:01:54] Keso van mar, nem zajongunk...
+[2018.05.18 20:01:54] ---------------------------
+[2018.05.18 20:01:54] Most varunk 60 masodpercet...
+[2018.05.18 20:02:54] Szenzorok olvasasa...
+[2018.05.18 20:02:55] . Medence (1), homersekleti erteke: 16.312
+[2018.05.18 20:02:56] . Panel (1), homersekleti erteke: 22.000
+[2018.05.18 20:02:56] .. Panelek atlaghomerseklete: 22.0
+[2018.05.18 20:02:56] Keso van mar, nem zajongunk...
+[2018.05.18 20:02:56] ---------------------------
+[2018.05.18 20:02:56] Most varunk 60 masodpercet...
